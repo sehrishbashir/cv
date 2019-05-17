@@ -1,0 +1,21 @@
+main{
+    width:900px;
+    height:1400px;
+    background-color: bisque;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+div{
+    padding-left:60px;
+    padding-top:20px;
+}
+
+#username{
+    font-size:3em;
+}
+
+li{
+    margin-left:15px;
+}
+
